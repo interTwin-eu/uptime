@@ -11,6 +11,8 @@ sites:
     check: "tcp-ping"
     url: fts3-public.cern.ch
     port: 8446
+  - name: PaaS Orchestrator
+    url: https://eosc-paas.cloud.ba.infn.it 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
