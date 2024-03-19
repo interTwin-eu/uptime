@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -33,6 +33,24 @@
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "PaaS Orchestrator",
+    "url": "https://eosc-paas.cloud.ba.infn.it",
+    "icon": "https://icons.duckduckgo.com/ip3/eosc-paas.cloud.ba.infn.it.ico",
+    "slug": "paa-s-orchestrator",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5831,
+    "timeDay": 5831,
+    "timeWeek": 5831,
+    "timeMonth": 5831,
+    "timeYear": 5831,
     "dailyMinutesDown": {}
   }
 ]
