@@ -4,7 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Rucio
-    url: https://rucio-intertwin-testbed.desy.de/
+    url: https://rucio-intertwin-testbed.desy.de
+  - name: FTS
+    url: https://fts3-public.cern.ch:8446
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
