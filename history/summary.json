@@ -42,19 +42,19 @@
     "url": "https://eosc-paas.cloud.ba.infn.it",
     "icon": "https://icons.duckduckgo.com/ip3/eosc-paas.cloud.ba.infn.it.ico",
     "slug": "paa-s-orchestrator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3549,
-    "timeDay": 8755,
-    "timeWeek": 5490,
-    "timeMonth": 3549,
-    "timeYear": 3549,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3613,
+    "timeDay": 6883,
+    "timeWeek": 5430,
+    "timeMonth": 3613,
+    "timeYear": 3613,
     "dailyMinutesDown": {
-      "2024-04-08": 0
+      "2024-04-08": 11
     }
   }
 ]
