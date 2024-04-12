@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rucio",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 167,
-    "timeDay": 105,
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 164,
+    "timeDay": 100,
     "timeWeek": 109,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2024-04-03": 73
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 96,
+    "time": 103,
+    "timeDay": 93,
     "timeWeek": 101,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3637,
-    "timeDay": 1272,
-    "timeWeek": 5740,
-    "timeMonth": 3637,
-    "timeYear": 3637,
+    "time": 3553,
+    "timeDay": 1370,
+    "timeWeek": 4662,
+    "timeMonth": 3553,
+    "timeYear": 3553,
     "dailyMinutesDown": {}
   }
 ]
