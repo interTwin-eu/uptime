@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 148,
-    "timeDay": 100,
-    "timeWeek": 120,
-    "timeMonth": 124,
+    "timeDay": 170,
+    "timeWeek": 130,
+    "timeMonth": 126,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2024-04-03": 73
@@ -26,15 +26,15 @@
     "slug": "fts",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
-    "time": 112,
-    "timeDay": 104,
-    "timeWeek": 113,
-    "timeMonth": 117,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 163,
+    "timeWeek": 122,
+    "timeMonth": 119,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-06": 47
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 2954,
-    "timeDay": 871,
-    "timeWeek": 1431,
-    "timeMonth": 2726,
-    "timeYear": 2954,
+    "time": 2933,
+    "timeDay": 1792,
+    "timeWeek": 1533,
+    "timeMonth": 2509,
+    "timeYear": 2933,
     "dailyMinutesDown": {
       "2024-04-23": 26
     }
