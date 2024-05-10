@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 148,
+    "time": 147,
     "timeDay": 104,
-    "timeWeek": 130,
+    "timeWeek": 128,
     "timeMonth": 126,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2024-04-03": 73
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "99.94%",
     "time": 112,
     "timeDay": 97,
-    "timeWeek": 122,
+    "timeWeek": 120,
     "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eosc-paas.cloud.ba.infn.it.ico",
     "slug": "paa-s-orchestrator",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 2905,
-    "timeDay": 1399,
-    "timeWeek": 1553,
-    "timeMonth": 2183,
-    "timeYear": 2905,
+    "uptimeYear": "99.97%",
+    "time": 2937,
+    "timeDay": 4725,
+    "timeWeek": 2013,
+    "timeMonth": 2297,
+    "timeYear": 2937,
     "dailyMinutesDown": {
       "2024-04-23": 26
     }
