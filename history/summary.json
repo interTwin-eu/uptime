@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 140,
-    "timeDay": 171,
-    "timeWeek": 129,
+    "timeDay": 138,
+    "timeWeek": 126,
     "timeMonth": 132,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "FTS",
-    "url": "fts3-public.cern.ch",
+    "url": "fts-egi.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fts",
     "status": "up",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 163,
-    "timeWeek": 128,
-    "timeMonth": 127,
+    "timeDay": 130,
+    "timeWeek": 125,
+    "timeMonth": 126,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-05-06": 47
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2952,
-    "timeDay": 1615,
-    "timeWeek": 1905,
-    "timeMonth": 3293,
-    "timeYear": 2952,
+    "time": 2935,
+    "timeDay": 1457,
+    "timeWeek": 1830,
+    "timeMonth": 3231,
+    "timeYear": 2935,
     "dailyMinutesDown": {
       "2024-04-23": 26
     }
