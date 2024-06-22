@@ -9,7 +9,7 @@ sites:
     port: 443
   - name: FTS
     check: "tcp-ping"
-    url: fts3-public.cern.ch
+    url: fts-egi.cern.ch
     port: 8446
   - name: PaaS Orchestrator
     url: https://eosc-paas.cloud.ba.infn.it 
