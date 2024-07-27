@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 137,
-    "timeDay": 171,
-    "timeWeek": 143,
-    "timeMonth": 129,
-    "timeYear": 137,
+    "time": 136,
+    "timeDay": 100,
+    "timeWeek": 140,
+    "timeMonth": 128,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2024-04-03": 73
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fts",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 119,
-    "timeDay": 162,
-    "timeWeek": 136,
+    "uptimeYear": "99.98%",
+    "time": 118,
+    "timeDay": 93,
+    "timeWeek": 133,
     "timeMonth": 122,
-    "timeYear": 119,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2024-05-06": 47
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2834,
-    "timeDay": 6939,
-    "timeWeek": 2496,
-    "timeMonth": 2608,
-    "timeYear": 2834,
+    "time": 2820,
+    "timeDay": 988,
+    "timeWeek": 2464,
+    "timeMonth": 2604,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2024-04-23": 26
     }
