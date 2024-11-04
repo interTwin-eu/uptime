@@ -15,6 +15,18 @@ sites:
     url: https://eosc-paas.cloud.ba.infn.it
   - name: JupyterHub_interlink
     url: https://jupyter-ukri.intertwin.fedcloud.eu/ 
+  - name: EGI Check-in Demo
+    url: https://aai-demo.egi.eu/
+  - name: GRNET Cloud
+    url: https://ui.cloud.grnet.gr/
+  - name: UKRI Cloud
+    url: openstack.stfc.ac.uk
+  - name: OSCAR
+    url: https://beautiful-lederberg3.im.grycap.net/ui/
+  - name: MLFlow
+    url: https://mlflow.intertwin.fedcloud.eu/signup 
+  - name: SQAasS
+    url: https://sqaaas.eosc-synergy.eu/ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
