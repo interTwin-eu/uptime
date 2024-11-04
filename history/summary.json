@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 133,
-    "timeDay": 100,
-    "timeWeek": 114,
-    "timeMonth": 135,
+    "timeDay": 99,
+    "timeWeek": 112,
+    "timeMonth": 134,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-04-03": 73
@@ -32,8 +32,8 @@
     "uptimeYear": "99.98%",
     "time": 127,
     "timeDay": 93,
-    "timeWeek": 107,
-    "timeMonth": 129,
+    "timeWeek": 105,
+    "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-10-09": 31,
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eosc-paas.cloud.ba.infn.it.ico",
     "slug": "paa-s-orchestrator",
     "status": "up",
-    "uptime": "92.86%",
+    "uptime": "92.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.86%",
-    "time": 2664,
-    "timeDay": 1187,
-    "timeWeek": 1488,
-    "timeMonth": 2667,
-    "timeYear": 2664,
+    "uptimeYear": "92.88%",
+    "time": 2658,
+    "timeDay": 1333,
+    "timeWeek": 1487,
+    "timeMonth": 2629,
+    "timeYear": 2658,
     "dailyMinutesDown": {
       "2024-10-01": 22,
       "2024-09-25": 20,
@@ -78,5 +78,23 @@
       "2024-08-20": 1119,
       "2024-04-23": 26
     }
+  },
+  {
+    "name": "JupyterHub_interlink",
+    "url": "https://jupyter-ukri.intertwin.fedcloud.eu/",
+    "icon": "https://icons.duckduckgo.com/ip3/jupyter-ukri.intertwin.fedcloud.eu.ico",
+    "slug": "jupyter-hub-interlink",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
+    "dailyMinutesDown": {}
   }
 ]
