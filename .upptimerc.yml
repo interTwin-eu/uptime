@@ -20,7 +20,7 @@ sites:
   - name: GRNET Cloud
     url: https://ui.cloud.grnet.gr/
   - name: UKRI Cloud
-    url: openstack.stfc.ac.uk
+    url: https://openstack.stfc.ac.uk
   - name: OSCAR
     url: https://beautiful-lederberg3.im.grycap.net/ui/
   - name: MLFlow
