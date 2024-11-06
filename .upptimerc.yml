@@ -26,7 +26,9 @@ sites:
   - name: MLFlow
     url: https://mlflow.intertwin.fedcloud.eu/signup 
   - name: SQAasS
-    url: https://sqaaas.eosc-synergy.eu/ 
+    url: https://sqaaas.eosc-synergy.eu/
+  - name: ALISE
+    url: https://alise.data.kit.edu/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
