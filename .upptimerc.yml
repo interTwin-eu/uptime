@@ -29,6 +29,12 @@ sites:
     url: https://sqaaas.eosc-synergy.eu/
   - name: ALISE
     url: https://alise.data.kit.edu/
+  - name: dCache VEGA
+    url: https://dcache.sling.si:2880/projects/intertwin
+  - name: interLink VEGA
+    check: "tcp-ping"
+    url: intertwin.vega.izum.si
+    port: 30443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
