@@ -30,7 +30,9 @@ sites:
   - name: ALISE
     url: https://alise.data.kit.edu/
   - name: dCache VEGA
-    url: https://dcache.sling.si:2880/projects/intertwin
+    check: "tcp-ping"
+    url: dcache.sling.si
+    port: 2880
   - name: interLink VEGA
     check: "tcp-ping"
     url: intertwin.vega.izum.si
