@@ -110,10 +110,10 @@
     "url": "https://aai-demo.egi.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/aai-demo.egi.eu.ico",
     "slug": "egi-check-in-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1870,
@@ -121,7 +121,9 @@
     "timeWeek": 1717,
     "timeMonth": 1870,
     "timeYear": 1870,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-27": 1
+    }
   },
   {
     "name": "GRNET Cloud",
@@ -129,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.cloud.grnet.gr.ico",
     "slug": "grnet-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1263,
     "timeDay": 1112,
     "timeWeek": 1257,
     "timeMonth": 1263,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2024-11-27": 0
+      "2024-11-27": 19
     }
   },
   {
