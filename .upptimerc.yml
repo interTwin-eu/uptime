@@ -29,6 +29,8 @@ sites:
     url: https://sqaaas.eosc-synergy.eu/
   - name: ALISE
     url: https://alise.data.kit.edu/
+  - name: Container Registry
+    url: https://registry.egi.eu/
   - name: dCache VEGA
     check: "tcp-ping"
     url: dcache.sling.si
