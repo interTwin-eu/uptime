@@ -1,7 +1,7 @@
 url: https://jupyter-ukri.intertwin.fedcloud.eu/
-status: down
-code: 503
-responseTime: 2482
-lastUpdated: 2025-01-31T08:17:49.028Z
+status: up
+code: 200
+responseTime: 982
+lastUpdated: 2025-01-31T08:36:56.525Z
 startTime: 2024-11-04T16:11:55.669Z
 generator: Upptime <https://github.com/upptime/upptime>
