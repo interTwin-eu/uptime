@@ -21,8 +21,10 @@ sites:
     url: https://ui.cloud.grnet.gr/
   - name: UKRI Cloud
     url: https://openstack.stfc.ac.uk
-  - name: OSCAR
-    url: https://beautiful-lederberg3.im.grycap.net/ui/
+  - name: OSCAR-GRNET
+    url: https://oscar-grnet.intertwin.fedcloud.eu/
+  - name: OSCAR-UKRI
+    url: https://oscar-ukri.intertwin.fedcloud.eu/
   - name: MLFlow
     url: https://mlflow.intertwin.fedcloud.eu/signup 
   - name: SQAasS
