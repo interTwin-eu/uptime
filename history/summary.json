@@ -346,9 +346,9 @@
     "url": "dcache.sling.si",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "d-cache-vega",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -358,6 +358,7 @@
     "timeMonth": 122,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-03-22": 45,
       "2025-01-07": 226
     }
@@ -407,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 375,
+      "2025-05-07": 419,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
