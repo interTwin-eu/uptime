@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eosc-paas.cloud.ba.infn.it.ico",
     "slug": "paa-s-orchestrator",
     "status": "up",
-    "uptime": "87.08%",
+    "uptime": "87.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -326,18 +326,20 @@
     "url": "https://registry.egi.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.egi.eu.ico",
     "slug": "container-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1271,
-    "timeWeek": 1152,
-    "timeMonth": 1123,
-    "timeYear": 1112,
-    "dailyMinutesDown": {}
+    "time": 1252,
+    "timeDay": 8709,
+    "timeWeek": 3026,
+    "timeMonth": 1593,
+    "timeYear": 1252,
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "dCache VEGA",
@@ -405,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 47,
+      "2025-05-07": 274,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
