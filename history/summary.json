@@ -326,19 +326,19 @@
     "url": "https://registry.egi.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.egi.eu.ico",
     "slug": "container-registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 8709,
-    "timeWeek": 3026,
-    "timeMonth": 1593,
-    "timeYear": 1252,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.93%",
+    "time": 1250,
+    "timeDay": 6150,
+    "timeWeek": 2805,
+    "timeMonth": 1576,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 101
     }
   },
   {
@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 274,
+      "2025-05-07": 375,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
