@@ -41,10 +41,10 @@ sites:
     check: "tcp-ping"
     url: intertwin.vega.izum.si
     port: 30443
-  #- name: test
-  #  check: "tcp-ping"
-  #  url: test.notification
-  #  port: 30443
+  - name: test
+    check: "tcp-ping"
+    url: test.notification
+    port: 30443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
