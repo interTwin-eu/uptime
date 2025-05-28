@@ -1,7 +1,7 @@
 url: https://aai-demo.egi.eu/
-status: down
-code: 500
-responseTime: 6533
-lastUpdated: 2025-05-28T20:39:44.230Z
+status: up
+code: 200
+responseTime: 1427
+lastUpdated: 2025-05-28T21:32:03.465Z
 startTime: 2024-11-04T16:19:02.019Z
 generator: Upptime <https://github.com/upptime/upptime>
