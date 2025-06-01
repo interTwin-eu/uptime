@@ -14,7 +14,7 @@ sites:
   - name: PaaS Orchestrator
     url: https://eosc-paas.cloud.ba.infn.it
   - name: JupyterHub_interlink
-    url: https://jupyter-ukri.intertwin.fedcloud.eu/ 
+    url: https://jupyter-dev-ukri.intertwin.fedcloud.eu/ 
   - name: EGI Check-in Demo
     url: https://aai-demo.egi.eu/
   - name: GRNET Cloud
