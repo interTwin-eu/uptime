@@ -1,7 +1,7 @@
 url: https://ui.cloud.grnet.gr/
-status: up
-code: 200
-responseTime: 911
-lastUpdated: 2025-07-01T23:14:33.544Z
+status: down
+code: 503
+responseTime: 887
+lastUpdated: 2025-07-02T22:41:17.676Z
 startTime: 2024-11-04T16:19:04.802Z
 generator: Upptime <https://github.com/upptime/upptime>
