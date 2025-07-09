@@ -1,7 +1,7 @@
 url: https://oscar-ukri.intertwin.fedcloud.eu/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-09T19:24:17.900Z
+status: up
+code: 200
+responseTime: 705
+lastUpdated: 2025-07-09T19:38:25.103Z
 startTime: 2025-03-21T15:50:33.451Z
 generator: Upptime <https://github.com/upptime/upptime>
