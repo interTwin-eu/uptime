@@ -11,8 +11,8 @@ sites:
     check: "tcp-ping"
     url: fts-egi.cern.ch
     port: 8446
-  - name: PaaS Orchestrator
-    url: https://eosc-paas.cloud.ba.infn.it
+  - name: AI Orchestrator
+    url: https://intertwin-dashboard.cloud.cnaf.infn.it/
   - name: JupyterHub_interlink
     url: https://jupyter-dev-ukri.intertwin.fedcloud.eu/ 
   - name: EGI Check-in Demo
