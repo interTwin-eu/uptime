@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2026-01-05": 1372,
+      "2026-01-05": 1395,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -170,7 +170,7 @@
     "timeDay": 1351,
     "timeWeek": 1147,
     "timeMonth": 1127,
-    "timeYear": 1119,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2026-01-03": 31,
       "2026-01-01": 16,
@@ -232,7 +232,7 @@
     "timeDay": 2195,
     "timeWeek": 2216,
     "timeMonth": 2241,
-    "timeYear": 2345,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2025-05-28": 90
     }
@@ -243,7 +243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.cloud.grnet.gr.ico",
     "slug": "grnet-cloud",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.60%",
@@ -297,7 +297,7 @@
     "timeDay": 1860,
     "timeWeek": 1315,
     "timeMonth": 1323,
-    "timeYear": 1470,
+    "timeYear": 1471,
     "dailyMinutesDown": {
       "2026-01-03": 30,
       "2026-01-01": 16,
@@ -345,18 +345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oscar-grnet.intertwin.fedcloud.eu.ico",
     "slug": "oscar-grnet",
     "status": "down",
-    "uptime": "64.99%",
+    "uptime": "64.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.99%",
+    "uptimeYear": "64.98%",
     "time": 1003,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2026-01-05": 1372,
+      "2026-01-05": 1395,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -467,19 +467,19 @@
     "url": "https://oscar-ukri.intertwin.fedcloud.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/oscar-ukri.intertwin.fedcloud.eu.ico",
     "slug": "oscar-ukri",
-    "status": "down",
+    "status": "up",
     "uptime": "94.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "94.88%",
     "time": 897,
-    "timeDay": 1194,
-    "timeWeek": 838,
-    "timeMonth": 942,
+    "timeDay": 899,
+    "timeWeek": 820,
+    "timeMonth": 934,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-01-05": 1,
+      "2026-01-05": 23,
       "2026-01-03": 30,
       "2026-01-01": 16,
       "2025-12-30": 89,
@@ -539,7 +539,7 @@
     "timeDay": 870,
     "timeWeek": 915,
     "timeMonth": 941,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2025-08-21": 1169,
       "2025-08-20": 1440,
@@ -570,7 +570,7 @@
     "timeDay": 635,
     "timeWeek": 449,
     "timeMonth": 382,
-    "timeYear": 288,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-08-25": 36
     }
@@ -590,7 +590,7 @@
     "timeDay": 664,
     "timeWeek": 628,
     "timeMonth": 688,
-    "timeYear": 705,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
