@@ -6,9 +6,9 @@
     "slug": "rucio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 113,
@@ -16,7 +16,7 @@
     "timeMonth": 139,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-02-21": 1
+      "2026-02-21": 25
     }
   },
   {
@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2026-02-21": 1131,
+      "2026-02-21": 1156,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -209,7 +209,7 @@
     "slug": "jupyter-hub-interlink",
     "status": "up",
     "uptime": "96.85%",
-    "uptimeDay": "95.64%",
+    "uptimeDay": "95.90%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "95.92%",
@@ -353,7 +353,7 @@
     "slug": "ukri-cloud",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "95.71%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "98.07%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.91%",
@@ -443,7 +443,7 @@
     "timeMonth": 0,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2026-02-21": 1131,
+      "2026-02-21": 1156,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -603,7 +603,7 @@
     "slug": "oscar-ukri",
     "status": "up",
     "uptime": "95.43%",
-    "uptimeDay": "95.78%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "98.09%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "95.43%",
@@ -798,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inter-link-vega",
     "status": "down",
-    "uptime": "91.34%",
+    "uptime": "91.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-02-21": 1131,
+      "2026-02-21": 1156,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
